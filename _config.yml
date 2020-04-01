@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CPSC 319
 description: A Jekyll theme for CPSC
-url: "https://marquesarthur.github.io/ubc-cpsc319" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marquesarthur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 footer_content: "<p class=\"text-small text-grey-dk-000 mb-4\">Site template adapted from <a href=\"https://github.com/pmarsceill/just-the-docs/\">Just the Docs</a> by <a href=\"https://github.com/pmarsceill\">Patrick Marsceill</a></p>"
 
 permalink: pretty
@@ -48,8 +48,8 @@ color_scheme: nil
 # e.g, UA-1234567-89
 # ga_tracking: UA-2709176-10
 
-# plugins:
-#   - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
 
 compress_html:
   clippings: all
