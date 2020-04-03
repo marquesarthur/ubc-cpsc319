@@ -57,6 +57,12 @@ for you.
 
 **Resources:**
 
-* [Course schedule](./content/schedule.md)
-* [Lecture notes](./content/lecture.md)
-* [Assignments](./content/assingments.md)
+* [Canvas](https://canvas.ubc.ca/courses/36010)
+    - Assignments
+    - Lecture Notes
+
+
+* [Course schedule](schedule.md)
+* [Projects & Sponsors](sponsors.md)
+* [Team formation](teams.md)
+* [Evaluation](evaluation.md)
