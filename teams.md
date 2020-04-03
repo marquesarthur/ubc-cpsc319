@@ -10,7 +10,7 @@ description:
 Where possible work with teammates that complement your abilities, style and commitment (ie: expect 10-12hrs per week).
 {: .info}
 
-* Reminder teams must be 7 people.
+* Teams must be **7 people**.
 * Two methods to joining a team:
     - Elect to sign up to a team by the end of class (preferred method).
     - I will assign a team for those individuals not in a team by Friday Jan 10th (pseudo random generator).
