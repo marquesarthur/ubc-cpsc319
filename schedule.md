@@ -11,5 +11,5 @@ description:
 <div id="csvDatas"></div> 
 
 
-_Actual schedule may slight updates according to class' needs_
+_Slight updates to the schedule may happen according to class' needs_
 {: .note}
